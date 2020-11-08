@@ -1,2 +1,2 @@
 # danialcodes.github.io
-Danial's Web
+Danial's Web for everything
